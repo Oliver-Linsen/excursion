@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     box-sizing: border-box;
     background-color: black;
@@ -17,4 +18,25 @@ header p {
     text-align: center;
     font-family: Verdana;
     text-decoration: underline;
+=======
+* {
+    box-sizing: border-box;
+    background-color: black;
+}
+
+header h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+header p {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    font-family: Verdana;
+    text-decoration: underline;
+>>>>>>> 65ecb39e495395a652ab1377358e9dc471d5afe7
 }
